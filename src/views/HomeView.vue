@@ -1,9 +1,8 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
+ </script>
 
 <template>
-  <main>
-    <TheWelcome />
+  <main class="text-6xl text-red-500">
+    sss
   </main>
 </template>
